@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tanngyu
+- 👋 Hi, I’m @Chaoyang Luo
 - 👀 I’m interested in Complex Network and Networked Evolutionary Game
 - 🌱 I’m currently learning Stochastic Process and Computer Science
 - 📫 Email: baiyu1127@foxmail.com
